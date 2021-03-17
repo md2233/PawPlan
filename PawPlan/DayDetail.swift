@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContactDetail: View {
     
-    @Binding var contact : Contact
+    @Binding var contact :
     @Binding var contacts : [Contact]
     @Environment(\.presentationMode) var presentation
     
