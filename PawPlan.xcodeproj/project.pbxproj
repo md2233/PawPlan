@@ -18,6 +18,7 @@
 		AD1ABE6226023D730073AECD /* Day.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1ABE6126023D730073AECD /* Day.swift */; };
 		AD1ABE6426023E0F0073AECD /* DayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1ABE6326023E0F0073AECD /* DayView.swift */; };
 		AD1ABE6626023EB80073AECD /* DayDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1ABE6526023EB80073AECD /* DayDetail.swift */; };
+		E32ED75926024A8C00ABE38F /* DayList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E32ED75826024A8C00ABE38F /* DayList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		AD1ABE6126023D730073AECD /* Day.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day.swift; sourceTree = "<group>"; };
 		AD1ABE6326023E0F0073AECD /* DayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayView.swift; sourceTree = "<group>"; };
 		AD1ABE6526023EB80073AECD /* DayDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayDetail.swift; sourceTree = "<group>"; };
+		E32ED75826024A8C00ABE38F /* DayList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				AD1ABE6126023D730073AECD /* Day.swift */,
 				AD1ABE6326023E0F0073AECD /* DayView.swift */,
 				AD1ABE6526023EB80073AECD /* DayDetail.swift */,
+				E32ED75826024A8C00ABE38F /* DayList.swift */,
 			);
 			path = PawPlan;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				AD1ABE6626023EB80073AECD /* DayDetail.swift in Sources */,
 				51C9958C25FA75C000E848C9 /* SceneDelegate.swift in Sources */,
 				AD1ABE6426023E0F0073AECD /* DayView.swift in Sources */,
+				E32ED75926024A8C00ABE38F /* DayList.swift in Sources */,
 				AD1ABE6226023D730073AECD /* Day.swift in Sources */,
 				51C9958E25FA75C000E848C9 /* ContentView.swift in Sources */,
 			);
